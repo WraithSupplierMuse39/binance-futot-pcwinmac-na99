@@ -1,4 +1,4 @@
-# 
+# VIP Binance期货机器人 脚本 for Mac OS | 专业 Binance期货机器人 脚本 for PC Windows. Featuring 动量分析 and 均值回归策略 — optimized for maximum performance.
 
 
 
